@@ -20,7 +20,8 @@ Este repositório contém um jogo de trivia em português para conhecer o ambien
 ## Execução:
 
 Na pasta do projeto, digite o comando:
-`node trivia-terminal.js` 
+
+``node trivia-terminal.js`` 
 
 ou
 
