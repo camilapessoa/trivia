@@ -48,9 +48,11 @@ Agradeço também a comunidade Alura por sua ajuda e suporte.
 
 ## Links úteis:
 
-Tech Guide: https://techguide.sh/
-Node.js: https://nodejs.org/en
-Formação JavaScript para Backend: https://www.alura.com.br/formacao-js-backend
+- Tech Guide: https://techguide.sh/
+
+- Node.js: https://nodejs.org/en
+
+- Formação JavaScript para Backend: https://www.alura.com.br/formacao-js-backend
 
 ## Contato:
 
